@@ -1,0 +1,137 @@
+:root {
+  font-family: Inter;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+a {
+  font-weight: 500;
+  text-decoration: inherit;
+  text-transform: uppercase;
+  font-size: 16px;
+
+}
+a:hover {
+  text-decoration: underline;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.card {
+  padding: 2em;
+}
+
+#app {
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+  font-size: 48px;
+  font-family: InterBold;
+  text-transform: uppercase;
+  color: var(--primary);
+  line-height: 96px;
+  height: 50px;
+  width: 100%;
+}
+h2 {
+  font-size: 48px;
+  font-family: InterBold;
+  text-transform: uppercase;
+  color: var(--secondary);
+  width: 100%;
+}
+
+.pr-25 {
+  padding-right: 25px;
+}
+
+.pr-15 {
+  padding-right: 15px;
+}
+
+.mb-50 {
+  margin-bottom: 50px;
+}
+
+.mb-80 {
+  margin-bottom: 80px;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.fw-b {
+  font-family: InterBold;
+}
+
+.ta-c {
+  text-align: center;
+}
+
+.c-light {
+  color: var(--primary);
+}
+
+.c-normal {
+  color: var(--secondary);
+}
+
+.bc-light {
+  background-color: var(--primary);
+}
+
+.bc-normal {
+  background-color: var(--secondarylight);
+}
+
+.bc-dark {
+  background-color: var(--primarylight);
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("assets/font/Inter-Medium.otf");
+}
+
+@font-face {
+  font-family: "InterBold";
+  src: url("assets/font/Inter-ExtraBold.otf");
+}
+
+@media only screen and (max-width: 1240px) {
+  h1 {
+    font-size: 40px;  
+    line-height: 60px;  
+    height: 10px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  :root {
+    font-size: 3.5vw;
+    line-height: 6vw;
+  }
+  h1 {
+    font-size: 6vw;  
+    line-height: 15vw;  
+    height: 10vw;
+  }
+  .mb-80 {
+    margin-bottom: 10vw;
+  }
+}
+

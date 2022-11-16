@@ -1,0 +1,22 @@
+{
+    "tomas_mlynsky": "Tomas Mlynsky",
+    "personal_informations": "Personal Informations",
+    "work_experience": "Work Experience",
+    "education": "Education",
+    "skills": "Skills",
+    "languages": "Languages",
+    "language": "Language",
+    "color_scheme": "Color Scheme",
+    "powered_by": "Powered by",
+    "name": "Name",
+    "birthday": "Birthday",
+    "gender": "Gender",
+    "contact_informations": "Contact Informations",
+    "mobile_number": "Mobile Number",
+    "address": "Adress",
+    "order_by_name": "Order by name",
+    "order_by_level": "Order by level",
+    "database": "Database",
+    "repositories": "Repositories",
+    "graphics": "Graphics"
+}  

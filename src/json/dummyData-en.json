@@ -1,0 +1,198 @@
+{
+    "personalData": {
+        "name": "Tomas",
+        "surname": "Mlynsky",
+        "birthday": "February 21st 1991",
+        "gender": "Male",
+        "email": "mlynskyt@outlook.sk",
+        "phone": "+421 940 277 798",
+        "street": "Nalepkova 223",
+        "city": "Batizovce",
+        "zip": "05935",
+        "country": "Slovakia"
+    },
+    "work": [
+        {
+            "timeframe": "2021-2022",
+            "position": "Senior Fullstack Developer",
+            "employer": "Elias - IT Solutions s.r.o.",
+            "logo": "src/assets/jpg/elias.jpg"
+        },
+        {
+            "timeframe": "2019-2020",
+            "position": "Frontend Developer",
+            "employer": "CORA GEO s.r.o.",
+            "logo": "src/assets/jpg/cora-geo.jpg"
+        },
+        {
+            "timeframe": "2013-2019",
+            "position": "Freelance Frontend Developer",
+            "employer": "Tomas Mlynsky - iMPACT",
+            "logo": "src/assets/jpg/creative-group.jpg"
+        },
+        {
+            "timeframe": "2011-2012",
+            "position": "Frontend Developer",
+            "employer": "BusinessTel GmbH"
+        },
+        {
+            "timeframe": "2010-2011",
+            "position": "Frontend Developer",
+            "employer": "SKG s.r.o."
+        }
+    ],
+    "education": [
+        {
+            "timeframe": "2006-2010",
+            "name": "Technical High School, Kukucinova",
+            "city": "Poprad"
+        },
+        {
+            "timeframe": "2001-2006",
+            "name": "Gymnasium of Mathematics and Physics, Kukucinova",
+            "city": "Poprad"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Adobe Photoshop",
+            "level": 4,
+            "type": "graphics",
+            "logo": "src/assets/jpg/adobe-photoshop.jpg"
+        },
+        {
+            "name": "Adobe Illustrator",
+            "level": 2,
+            "type": "graphics",
+            "logo": "src/assets/jpg/adobe-illustrator.jpg"
+        },
+        {
+            "name": "JavaScript",
+            "level": 5,
+            "type": "frontend",
+            "logo": "src/assets/png/javascript.png"
+        },
+        {
+            "name": "PHP",
+            "level": 5,
+            "type": "backend",
+            "logo": "src/assets/png/php.png"
+        },
+        {
+            "name": "HTML",
+            "level": 5,
+            "type": "frontend",
+            "logo": "src/assets/png/html.png"
+        },
+        {
+            "name": "CSS",
+            "level": 5,
+            "type": "frontend",
+            "logo": "src/assets/png/css.png"
+        },
+        {
+            "name": "MySQL",
+            "level": 4,
+            "type": "database",
+            "logo": "src/assets/png/mysql.png"
+        },
+        {
+            "name": "Adobe Flash",
+            "level": 5,
+            "type": "graphics",
+            "logo": "src/assets/jpg/adobe-flash.jpg"
+        },
+        {
+            "name": "AJAX",
+            "level": 3,
+            "type": "frontend",
+            "logo": "src/assets/png/ajax.png"
+        },
+        {
+            "name": "WordPress",
+            "level": 4,
+            "type": "cms",
+            "logo": "src/assets/png/wordpress.png"
+        },
+        {
+            "name": "ReactJS",
+            "level": 5,
+            "type": "frontend",
+            "logo": "src/assets/png/reactjs.png"
+        },
+        {
+            "name": "jQuery",
+            "level": 5,
+            "type": "frontend",
+            "logo": "src/assets/png/jquery.png"
+        },
+        {
+            "name": "C#",
+            "level": 2,
+            "type": "backend",
+            "logo": "src/assets/png/csharp.png"
+        },
+        {
+            "name": ".NET",
+            "level": 2,
+            "type": "backend",
+            "logo": "src/assets/png/dotnet.png"
+        },
+        {
+            "name": "GIT",
+            "level": 5,
+            "type": "repository",
+            "logo": "src/assets/png/git.png"
+        },
+        {
+            "name": "Git Lab",
+            "level": 5,
+            "type": "repository",
+            "logo": "src/assets/png/git-lab.png"
+        },
+        {
+            "name": "REST Api",
+            "level": 3,
+            "type": "backend",
+            "logo": "src/assets/png/rest-api.png"
+        },
+        {
+            "name": "Vue.js",
+            "level": 4,
+            "type": "frontend",
+            "logo": "src/assets/png/vue.png"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Slovak",
+            "level": "5",
+            "img": "src/assets/svg/sk.svg"
+        },
+        {
+            "name": "English",
+            "level": "4",
+            "img": "src/assets/svg/en.svg"
+        },
+        {
+            "name": "Czech",
+            "level": "4",
+            "img": "src/assets/svg/cz.svg"
+        },
+        {
+            "name": "Polish",
+            "level": "3",
+            "img": "src/assets/svg/pl.svg"
+        },
+        {
+            "name": "German",
+            "level": "2",
+            "img": "src/assets/svg/de.svg"
+        },
+        {
+            "name": "Japanese",
+            "level": "2",
+            "img": "src/assets/svg/jp.svg"
+        }
+    ]
+}
